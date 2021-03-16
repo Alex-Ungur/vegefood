@@ -16,5 +16,8 @@ Puis finalement le dossier partials qui contient d'autres elements comme le foot
 
 La page routes avec le fichier web.php qui dirige l'utilisateur vers les pages et les controllers en fonction de ses souhaits.
 
+Stripe utilisé en tant qu'API pour simuler le paiement.
 
 Lien de video de presentation :
+
+https://drive.google.com/file/d/1FELYifc5uOAnGyIq6n7LpjRWBI5StM54/view?usp=sharing
